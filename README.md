@@ -18,7 +18,7 @@ The Garno Card project is a simple login form designed for easy user interaction
 
 ## Live Demo
 
-Check out the live demo of Garno Card [here](elenapodv.github.io/garno-card/).
+Check out the live demo of Garno Card [here]([elenapodv.github.io/garno-card/](https://elenapodv.github.io/garno-card](https://elenapodv.github.io/garno-card)).
 
 ## Technologies
 
