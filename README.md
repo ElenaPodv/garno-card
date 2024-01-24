@@ -74,7 +74,7 @@ The Figma template for Garno Card was created by Irina Naumchik. You can find th
 
 ## Modified Figma Template
 
- The modified template in this project is based on Irina Naumchik's design фтв can be found [here](https://www.figma.com/file/1mSaAHtjZiJEsu24IWwrOL/ligin-form?type=design&node-id=0%3A1&mode=design&t=ZAM8PEYsgHW8vegY-1).
+ The modified template in this project is based on Irina Naumchik's design and can be found [here](https://www.figma.com/file/1mSaAHtjZiJEsu24IWwrOL/ligin-form?type=design&node-id=0%3A1&mode=design&t=ZAM8PEYsgHW8vegY-1).
 
 ## License
 
