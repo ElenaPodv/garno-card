@@ -3,50 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Garno</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
+    <title>Garno</title>
 </head>
 <body class="root">
     <div class="card">
-        <header class="card__header">
-            <a href="https://en.wikipedia.org/wiki/Garno" class="card__logo" target="_blank">garno</a>
-            <h1 class="card__logo-header visually-hidden">garno</h1>
-            <img src="welcome-img.png" alt="Garno-image" class="card__image">
-        </header>
+            <header class="card__header">
+                <a class="card__logo" href="#" target="_blank">garno</a>
+                <h1 class="card__logo-header visually-hidden">garno</h1>
+                <img src="images/welcome-img.png" alt="" class="card__image">
+            </header>
 
-        <form action="#" class="card__form" method="get">
 
-            <fieldset class="card__form-fieldset">
-
-                <legend class="card__form-heading">Welcome Back!</legend>                
-     
-                    <div class="card__input">
-                        <input class="card__text-input" type="email" placeholder="Email" required>
-                        <svg class="input-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <div class="card__body">
+                <h2 class="card__body-heading">Welcome Back</h2>
+                <form  class="card__form" action="https://en.wikipedia.org/wiki/Garno" method="get">
+                    <div class="card__input">     
+                        <input class="card__text-input" type="email" placeholder="Email" name="email">
+                         <svg class="input-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <path d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2 7.5 4.019 7.5 6.5zM20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1h17z"></path>
                         </svg>
-                    </div>
-                    
+                    </div>                    
                     <div class="card__input">     
-                        <input class="card__text-input" type="password" placeholder="Password" required> 
+                        <input class="card__text-input" type="password" placeholder="Password" inputmode="numeric" maxlength="8" required> 
                         <svg class="input-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <path d="M20 12c0-1.103-.897-2-2-2h-1V7c0-2.757-2.243-5-5-5S7 4.243 7 7v3H6c-1.103 0-2 .897-2 2v8c0 1.103.897 2 2 2h12c1.103 0 2-.897 2-2v-8zM9 7c0-1.654 1.346-3 3-3s3 1.346 3 3v3H9V7z"></path>
                         </svg>
                     </div>
-
                 <div class="card__checkbox-wrapper">
                     <input class="card__checkbox-input visually-hidden" type="checkbox" id="signed_in">
-                    <label class="card__checkbox-label" for="signed_in">Keep me signed in    </label> 
-                                   
+                    <label class="card__checkbox-label" for="signed_in">Keep me signed in</label>                                    
                     <a href="#" class="card__checkbox-link">Forgot password?</a>
-                </div>                
-
+                </div>         
                 <button class="card__button" type="submit">Sign in</button>
-                <p class="card__register-question">Not registered yet? 
-                    <a href="#" class="card__register-link">Create an account here!</a>
-                </p>
-            </fieldset>
-        </form>
+
+            </form>
+            <p class="card__register-question">Not registered yet? 
+                <a href="#" class="card__register-link">Create an account here!</a>
+            </p>
+        </div>
     </div>
 </body>
 </html>
