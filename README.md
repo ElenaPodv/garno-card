@@ -10,8 +10,10 @@ The Garno Card project is a single-page website featuring a login card, designed
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Original Figma Template](#original-figma-template)
+- [Modified Figma Template](#modified-figma-template)
+- [License](#license)
+
 
 ## Introduction
 
