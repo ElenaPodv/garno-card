@@ -1,6 +1,6 @@
 # Garno Card
 
-The Garno Card project is a single-page website featuring a login card. It provides a clean and user-friendly interface for users to sign in. The project incorporates HTML and CSS technologies, along with various design elements such as a logo, form inputs, checkboxes, and buttons.
+The Garno Card project is a single-page website featuring a login card, designed to provide a clean and user-friendly interface for users to sign in. This project incorporates HTML and CSS technologies, along with various design elements such as a logo, form inputs, checkboxes, and buttons.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ The Garno Card project is a single-page website featuring a login card. It provi
 
 ## Introduction
 
-The Garno Card project is a simple login form designed for easy user interaction. It features a visually appealing card layout with a logo, form inputs, and interactive elements. The project aims to provide a seamless sign-in experience for users.
+The Garno Card project is a simple login form designed for easy user interaction. It features a visually appealing card layout with a logo, form inputs, and interactive elements, aiming to provide a seamless sign-in experience for users.
 
 ## Live Demo
 
@@ -66,6 +66,10 @@ We welcome contributions to improve the Garno Card project. Follow these steps t
 6. Open a pull request to submit your changes for review.
 
 If you have questions or need assistance, feel free to contact us via email or GitHub.
+
+## Original Figma Template
+
+The Figma template for Garno Card was created by Irina Naumchik. You can find the original Figma template [here](https://www.figma.com/file/pNMj3lxTUWM2fHJ9fJ7fMP/login-form?type=design&node-id=0%3A1&mode=design&t=3qGz8vcpVMknAYgj-1). The modified template in this project is based on Irina Naumchik's design.
 
 ## License
 
