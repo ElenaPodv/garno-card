@@ -14,10 +14,9 @@
 :root {
     --white-color: rgba(255, 255, 255, 1);
     --yellow-color: rgba(255, 216, 41, 1);
-    --blue-color: rgba(11, 136, 223, 1);
-    --grey-dark-color: rgba(19, 19, 19, 1 );
+    --blue-color: rgba(11, 136, 223, 1);;
     --grey-light-color: rgba(170, 170, 170, 1);
-   --black-color: rgba(0, 0, 0, 1);
+    --black-color: rgba(19, 19, 19, 1);
     --transition-all: all 0.3s ease;
 }
 
@@ -28,7 +27,7 @@ body {
     align-items: center;
     min-height: 100vh;
     color: var(--white-color); 
-    background-color: var(--grey-dark-color);      
+    background-color: var(--grey-light-color);      
 }
 
 .card {
@@ -110,6 +109,8 @@ body {
     padding: 13px 14px;  
     border: none;
     margin-bottom: 10px;
+    cursor: text;
+    
 }
 
 .card__text-input::placeholder {
