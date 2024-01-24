@@ -11,6 +11,7 @@ The Garno Card project is a single-page website featuring a login card, designed
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Original Figma Template](#original-figma-template)
 
 ## Introduction
 
@@ -70,6 +71,10 @@ If you have questions or need assistance, feel free to contact us via email or G
 ## Original Figma Template
 
 The Figma template for Garno Card was created by Irina Naumchik. You can find the original Figma template [here](https://www.figma.com/file/pNMj3lxTUWM2fHJ9fJ7fMP/login-form?type=design&node-id=0%3A1&mode=design&t=3qGz8vcpVMknAYgj-1). The modified template in this project is based on Irina Naumchik's design.
+
+## Modified Figma Template
+
+ The modified template in this project is based on Irina Naumchik's design фтв can be found [here](https://www.figma.com/file/1mSaAHtjZiJEsu24IWwrOL/ligin-form?type=design&node-id=0%3A1&mode=design&t=ZAM8PEYsgHW8vegY-1).
 
 ## License
 
