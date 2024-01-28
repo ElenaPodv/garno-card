@@ -61,6 +61,7 @@ body {
 .card__logo:hover,
 .card__logo:focus {
     color: var(--blue-color);
+    outline: none;
 }
 
 .card__logo:active {
@@ -218,6 +219,13 @@ body {
 .card__checkbox-link:active {
     opacity: 0.5;
 }
+
+
+.card__register-link:focus,
+.card__checkbox-link:focus {
+    outline: none;
+}
+
 
 .card__register-link:hover::after,
 .card__register-link:focus::after,
